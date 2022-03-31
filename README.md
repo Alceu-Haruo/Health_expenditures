@@ -2,4 +2,4 @@
 Tidyverse
 Repos
 
-This is a repository to Coursera Studies
+This is a repository for Coursera Studies
